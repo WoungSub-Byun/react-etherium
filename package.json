@@ -1,0 +1,11 @@
+{
+  "name": "react-etherium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/icefirebear/react-etherium.git",
+  "author": "변웅섭 <woungsub1234@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.2.6"
+  }
+}

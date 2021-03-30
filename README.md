@@ -16,3 +16,5 @@
 ## 실습
 
 - CoinToFlip 게임
+- FrontEnd: react
+- Backend: Solidity
